@@ -11,6 +11,10 @@ With this project, we want to give the user a user-friendly web page which can h
 1 LOGIN PAGE
 To enter into the main interface the first step is to go through the login page. If you are new to the website register and then login with your credentials.
 
+Please login with 
+user name : sai
+password : 123456
+
  ![image](https://user-images.githubusercontent.com/77888103/115922397-11e1c800-a43a-11eb-867c-e39404fe4860.png)
 
 
